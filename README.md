@@ -2,7 +2,7 @@
 
 ## Cristian Devora - Desarrollador Web Full-Stack
 
-[![Portafolio Crixdev](https://crixdev.com)
+https://crixdev.com
 
 Bienvenido a mi portafolio. Soy Cristian Devora, un desarrollador web Full-Stack con 3 años de experiencia en la industria, especializado en transformar ideas en soluciones digitales tanto en el Front-End como en el Back-End.
 
