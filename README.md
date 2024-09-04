@@ -32,7 +32,7 @@ En mi portafolio encontrarás ejemplos de proyectos anteriores, incluyendo aplic
 
 ### 📬 Contacto
 
-¿Tienes un proyecto en mente o necesitas asesoría para desarrollar una solución digital? No dudes en [contactarme](mailto:crixdev@example.com).
+¿Tienes un proyecto en mente o necesitas asesoría para desarrollar una solución digital? No dudes en [contactarme](mailto:hola@crixdev.com).
 
 ---
 
